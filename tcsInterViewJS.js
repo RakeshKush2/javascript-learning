@@ -67,3 +67,5 @@ function isPalindrome(number) {
 console.log(isPalindrome(121));  // true
 console.log(isPalindrome(123));  // false
 console.log(isPalindrome(1331)); // true
+
+
